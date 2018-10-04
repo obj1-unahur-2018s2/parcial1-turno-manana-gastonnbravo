@@ -1,0 +1,22 @@
+import profesionales.*
+import servicios.*
+
+describe "test de universidades "{
+	
+	var SanMartin = new universidad()
+	var Rosario = new universidad()
+	var Corrientes = new universidad()
+	var Hurlingham = new universidad()
+	
+	
+	const Juana = new profecional()
+	const Melina = new profecional()
+	const Rocio = new profecional()
+	const Luciana = new profecional()
+	
+	
+	}
+		
+	
+		
+		
