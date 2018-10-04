@@ -20,7 +20,7 @@ class EmpresaServicios {
 	method pocoAtractivo(){}
 }
 
-object empresa{
+class Empresa{
 	var profesionales=0
 	var honorario=0
 	

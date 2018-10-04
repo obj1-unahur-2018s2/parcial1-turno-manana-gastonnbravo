@@ -23,7 +23,7 @@ class ProfesionalVinculado {
 	method setuniversidad(univ) { universidad = univ }
 	method provinciasDondePuedeTrabajar(){if (lugar){return lugar==universidad}else {return lugar}}
 	method honorariosPorHora(){}
-	
+
 }
 
 
